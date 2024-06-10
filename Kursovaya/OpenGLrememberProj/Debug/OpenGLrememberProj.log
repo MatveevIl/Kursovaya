@@ -1,0 +1,6 @@
+﻿  Render.cpp
+C:\Users\Илья\source\repos\Комп_Граф\Курсач\grafika_lab1-master\grafika_lab1-master\OpenGLrememberProj\Render.cpp(106,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Илья\source\repos\Комп_Граф\Курсач\grafika_lab1-master\grafika_lab1-master\OpenGLrememberProj\Render.cpp(112,29): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Илья\source\repos\Комп_Граф\Курсач\grafika_lab1-master\grafika_lab1-master\OpenGLrememberProj\Render.cpp(112,22): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\Илья\source\repos\Комп_Граф\Курсач\grafika_lab1-master\grafika_lab1-master\OpenGLrememberProj\Render.cpp(112,15): warning C4305: аргумент: усечение из "double" в "GLclampf"
+  OpenGLrememberProj.vcxproj -> C:\Users\Илья\source\repos\Комп_Граф\Курсач\grafika_lab1-master\grafika_lab1-master\Debug\OpenGLrememberProj.exe
